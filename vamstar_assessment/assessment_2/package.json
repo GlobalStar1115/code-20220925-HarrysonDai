@@ -1,0 +1,19 @@
+{
+  "name": "bmi-testing",
+  "version": "1.0.0",
+  "description": "This is node project for BMI testing.",
+  "main": "main.js",
+  "scripts": {
+    "test": "test",
+    "start": "node main"
+  },
+  "keywords": [
+    "BMI",
+    "node"
+  ],
+  "author": "Serhii voinikov",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}

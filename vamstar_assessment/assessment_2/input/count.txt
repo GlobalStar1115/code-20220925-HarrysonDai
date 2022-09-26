@@ -1,0 +1,10 @@
+2
+
+
+// this is the index of type, you want count    //
+// 0 - "Under weight       "			//
+// 1 - "Normal weight      "			//
+// 2 - "Over weight        "			//	
+// 3 - "Moderately obese   "			//
+// 4 - "Severel obese      "			//
+// 5 - "Very severely obese"			//
